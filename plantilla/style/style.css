@@ -161,9 +161,6 @@ ul {
     }
 }
 
-
-/* ashdkjadhkd */
-
 img {
     height: auto;
     max-width: 100%;
@@ -295,7 +292,6 @@ footer {
 
 .inpute {
     right: 10px;
-    /* text-align: center; */
     border-radius: 0.3rem;
     position: relative;
     top: -25px;
@@ -355,7 +351,6 @@ footer {
     }
     .inpute {
         right: 10px;
-        /* text-align: center; */
         border-radius: 0.3rem;
         position: relative;
         top: -15px;
