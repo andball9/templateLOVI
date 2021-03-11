@@ -1,0 +1,94 @@
+Informe del paquete
+
+-----------------------------------------------------------------------------
+Documento:
+Nombre: LOVI-Landing.ai
+Modo de color: Color RGB
+Perfil de color: sRGB IEC61966-2.1
+Unidades de regla: píxeles
+Dimensiones de la mesa de trabajo: 1280 px x 2432,043 px
+Mostrar imágenes en modo contorno: Desactivado
+Resaltar fuentes sustituidas: Desactivado
+Resaltar glifos sustituidos: Desactivado
+Conservar capacidad de edición de texto
+Simular papel de color: Desactivado
+
+-----------------------------------------------------------------------------
+Objetos de tintas planas:
+
+-----------------------------------------------------------------------------
+Fuentes no disponibles:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes protegidas no empaquetadas:Ninguno
+
+-----------------------------------------------------------------------------
+Fuentes:
+Raleway SemiBold (OTF)
+Raleway Bold (OTF)
+Raleway (OTF)
+Raleway Light (OTF)
+
+-----------------------------------------------------------------------------
+Fuentes incrustadas:
+Ninguno
+
+-----------------------------------------------------------------------------
+Enlaces no disponibles:
+Ninguno
+
+-----------------------------------------------------------------------------
+Imágenes enlazadas:
+
+C:\Users\yesid\Documents\Art&Cod\Botslovers\LOVI\Landing\our-purpose-2.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 13303K, 1920 por 2365 píxeles
+Dimensiones: 440,445 por 542,528 puntos 
+Resolución: 313,864 por 313,864 píxeles por pulgada
+
+
+C:\Users\yesid\Documents\Art&Cod\Botslovers\LOVI\Landing\our-purpose-2.jpg
+Tipo: RGB
+Bits por píxel: 24
+Canales: 3
+Tamaño: 13303K, 1920 por 2365 píxeles
+Dimensiones: 440,445 por 542,528 puntos 
+Resolución: 313,864 por 313,864 píxeles por pulgada
+
+
+C:\Users\yesid\Documents\Art&Cod\Botslovers\Logos-plataformas\logos-plataformas-01.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 353K, 301 por 301 píxeles
+Dimensiones: 56,619 por 56,619 puntos 
+Resolución: 382,769 por 382,769 píxeles por pulgada
+
+
+C:\Users\yesid\Documents\Art&Cod\Botslovers\Logos-plataformas\logos-plataformas-05.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 353K, 301 por 301 píxeles
+Dimensiones: 56,619 por 56,619 puntos 
+Resolución: 382,769 por 382,769 píxeles por pulgada
+
+
+C:\Users\yesid\Documents\Art&Cod\Botslovers\Logos-plataformas\logos-plataformas-04.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 353K, 301 por 301 píxeles
+Dimensiones: 56,619 por 56,619 puntos 
+Resolución: 382,769 por 382,769 píxeles por pulgada
+
+
+C:\Users\yesid\Documents\Art&Cod\Botslovers\Logos-plataformas\logos-plataformas-03.png
+Tipo: RGB transparente
+Bits por píxel: 32
+Canales: 4
+Tamaño: 353K, 301 por 301 píxeles
+Dimensiones: 56,619 por 56,619 puntos 
+Resolución: 382,769 por 382,769 píxeles por pulgada
