@@ -1,0 +1,141 @@
+@font-face {
+    font-family: Raleway-Bold;
+    src: url('../Fonts/Raleway-Bold.ttf');
+}
+
+@font-face {
+    font-family: Raleway-Light;
+    src: url('../Fonts/Raleway-Light.ttf');
+}
+
+@font-face {
+    font-family: Raleway-Regular;
+    src: url('../Fonts/Raleway-Regular.ttf');
+}
+
+@font-face {
+    font-family: Raleway-SemiBold;
+    src: url('../Fonts/Raleway-SemiBold.ttf');
+}
+.fontbold{
+    font-family: Raleway-Bold;
+}
+.fontlight{
+    font-family: Raleway-Light;
+}
+.fontregular{
+    font-family: Raleway-Regular;
+}
+.fontsemibold{
+    font-family: Raleway-SemiBold;
+}
+.peque{
+    font-size: 10px;
+}
+.mid{
+    font-size: 12px;
+}
+.gran{
+    font-size: 18px;
+}
+.sit{
+    line-height: 0%;
+}
+.red{
+    color:#FB4A59
+}
+.blue{
+    color:#2D2E83
+}
+.black{
+    color:#1D1D1B
+}
+.grey{
+    color:#706F6F
+}
+.blan{
+    color: #fff;
+}
+.lin{
+    background-color: #FB4A59;
+    width: 50px; 
+    height: 1px;
+    position: relative;
+    top: -10px;
+}
+.btnred {
+    background-color: #FB4A59;
+    font: 10px Raleway-Light;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    width: 80px;
+}
+body {
+    height: 100vh;
+    background: url(../assets/IMG/LOVI-Fondo\ 01.jpg) no-repeat center top;
+    background-size: cover;
+}
+.log {
+    height: 15vh;
+    margin-left: 5%;
+}
+.form1{
+    background: url(../assets/IMG/LOVI-fondo-newsletter.jpg);
+    margin: 0%;
+    position: relative;
+    top: -40px;
+    background-repeat: no-repeat;
+    width: 80vw;
+    border-radius: 0.5rem;
+    text-align: unset;
+}
+.inpute {
+    right: 10px;
+    /* text-align: center; */
+    border-radius: 0.3rem;
+    position: relative;
+    top: 18px;
+    right: -11px;
+}
+.btnred3 {
+    background-color: #FB4A59;
+    font: 10px Raleway-Light;
+    color: #fff;
+    border: none;
+    border-radius: 5px;
+    height: 20px;
+    width: 80px;
+    position: relative;
+    right: -25px;
+    top: 18px;
+}
+.imgsoc{
+    width: 40px;
+}
+.susc {
+    font: 12px Raleway-Light;
+    color: #fff;
+    position: relative;
+    top: 10px;
+    left: 20px;
+    text-align: left;
+    margin-top: 10px;
+}
+
+.news {
+    font: 20px Raleway-Bold;
+    color: #fff;
+    position: relative;
+   
+    left: 20px;
+    text-align: left;
+}
+.copy{
+    background-color: black;
+}
+@media(min-width: 1100px){
+.content{
+  margin: 0 200PX 0 200px;
+}}
