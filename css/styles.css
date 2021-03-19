@@ -30,7 +30,7 @@
     font-family: Raleway-SemiBold;
 }
 .peque{
-    font-size: 10px;
+    font-size: 16px;
 }
 .mid{
     font-size: 12px;
@@ -38,9 +38,7 @@
 .gran{
     font-size: 18px;
 }
-.sit{
-    line-height: 0%;
-}
+
 .red{
     color:#FB4A59
 }
@@ -78,60 +76,33 @@ body {
     background-size: cover;
 }
 .log {
-    height: 15vh;
+    height: 80px;
     margin-left: 5%;
 }
-.form1{
-    background: url(../assets/IMG/LOVI-fondo-newsletter.jpg);
-    margin: 0%;
-    position: relative;
-    top: -40px;
-    background-repeat: no-repeat;
-    width: 80vw;
+.cardo{
+    background: url(../assets/IMG/LOVI-fondo-newsletter.jpg) no-repeat center top ;
     border-radius: 0.5rem;
-    text-align: unset;
+    
 }
-.inpute {
-    right: 10px;
+ .inpute { 
+    
     /* text-align: center; */
-    border-radius: 0.3rem;
-    position: relative;
-    top: 18px;
-    right: -11px;
-}
+     border-radius: 0.3rem;
+    /*position: relative;
+    top: 25px; */
+    /* right: -11px; */
+} 
 .btnred3 {
     background-color: #FB4A59;
-    font: 10px Raleway-Light;
     color: #fff;
     border: none;
     border-radius: 5px;
-    height: 20px;
-    width: 80px;
-    position: relative;
-    right: -25px;
-    top: 18px;
+   
 }
 .imgsoc{
     width: 40px;
 }
-.susc {
-    font: 12px Raleway-Light;
-    color: #fff;
-    position: relative;
-    top: 10px;
-    left: 20px;
-    text-align: left;
-    margin-top: 10px;
-}
 
-.news {
-    font: 20px Raleway-Bold;
-    color: #fff;
-    position: relative;
-   
-    left: 20px;
-    text-align: left;
-}
 .copy{
     background-color: black;
 }
@@ -139,3 +110,24 @@ body {
 .content{
   margin: 0 200PX 0 200px;
 }}
+
+
+
+.mor { 
+    position: relative;
+    top: -50px; 
+    border-radius: 0.5rem;
+    text-align: unset;
+}
+.susc {
+    font: 20px Raleway-Light;
+    color: #fff;
+    
+    text-align: left;
+}
+.news {
+    font: 28px Raleway-Bold;
+    color: #fff;
+   
+    text-align: left;
+}
