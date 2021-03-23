@@ -33,10 +33,10 @@
     font-size: 16px;
 }
 .mid{
-    font-size: 12px;
+    font-size: 18px;
 }
 .gran{
-    font-size: 18px;
+    font-size: 22px;
 }
 
 .red{
@@ -63,7 +63,7 @@
 }
 .btnred {
     background-color: #FB4A59;
-    font: 13px Raleway-Light;
+    font: 16px Raleway-Light;
     color: #fff;
     border: none;
     border-radius: 5px;
@@ -95,7 +95,7 @@ body {
     color: #fff;
     border: none;
     border-radius: 5px;
-    font: 13px Raleway-Light;
+    font: 16px Raleway-Light;
 }
 .imgsoc{
     width: 40px;
