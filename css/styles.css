@@ -63,12 +63,10 @@
 }
 .btnred {
     background-color: #FB4A59;
-    font: 10px Raleway-Light;
+    font: 13px Raleway-Light;
     color: #fff;
     border: none;
     border-radius: 5px;
-    height: 20px;
-    width: 80px;
 }
 body {
     height: 100vh;
@@ -97,7 +95,7 @@ body {
     color: #fff;
     border: none;
     border-radius: 5px;
-   
+    font: 13px Raleway-Light;
 }
 .imgsoc{
     width: 40px;
